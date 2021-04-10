@@ -1,4 +1,22 @@
 # Build and Release Folders
+.idea/
+.DS_Store
+/public/js
+/public/css
+/vendor
+/.vagrant
+/.phpstorm.meta.php
+/public/mix-manifest.json
+npm-debug.log
+yarn-error.log
+public/mix-manifest.json
+/node_modules
+*.map
+/public/storage
+/public/hot
+_ide_helper.php
+_ide_helper_models.php
+
 bin-debug/
 bin-release/
 [Oo]bj/
